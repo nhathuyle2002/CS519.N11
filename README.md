@@ -12,7 +12,7 @@
 
 ### Thành viên nhóm BHĐ
 
-| STT | Họ tên | MSSV | Email | Github |
-| :---: | --- | --- | --- | --- |
-| 1 | Nguyễn Vĩnh Hưng | 20520055 | 20520055@gm.uit.edu.vn | [datthanhle](https://github.com/) |
-| 2 | Lê Nhật Huy | 20520056 | 20520056@gm.uit.edu.vn | [noeffortnomoney](https://github.com/) |
+| STT | Họ tên | MSSV | Email |
+| :---: | --- | --- | --- |
+| 1 | Nguyễn Vĩnh Hưng | 20520055 | 20520055@gm.uit.edu.vn |
+| 2 | Lê Nhật Huy | 20520056 | 20520056@gm.uit.edu.vn |
